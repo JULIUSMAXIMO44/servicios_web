@@ -133,7 +133,7 @@ git push
 - Controlar intentos repetidos de autenticación.
 
 ## Autor
-Aprendiz: [Escribir nombre completo]  
-Programa: [Escribir programa de formación]  
-Ficha: [Escribir número de ficha]  
+Nombre: JULIO CÉSAR RUDAS SÁNCHEZ  
+Programa: ADSO  
+Ficha: 3336134  
 Evidencia: GA7-220501096-AA5-EV01
