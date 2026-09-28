@@ -1,0 +1,11 @@
+{
+  "name": "servicio-auth",
+  "version": "1.0.0",
+  "description": "Servicio web para registro e inicio de sesión - Evidencia GA7-220501096-AA5-EV01",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "keywords": ["api", "rest", "login", "registro", "autenticacion", "express"],
+  "author": "Aprendiz",
+  "license": "ISC",
+  "dependencies": { "express": "^5.1.0" }
+}
